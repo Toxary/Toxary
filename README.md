@@ -38,7 +38,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.github.com/103074636'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/103074636'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> <br>
 <img alt="Discord" src="https://lanyard-profile-readme.vercel.app/api/956657513170862203" href="https://discord.com/users/956657513170862203" />
 
 
